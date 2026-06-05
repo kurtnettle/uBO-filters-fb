@@ -1,5 +1,5 @@
-! Title: uBlock Origin filters to block Facebook Stories.
-! Description: Hides the entire Stories tray and related card elements on Facebook.
+! Title: Block Facebook Stories
+! Description: Hides the entire Stories tray and related card elements on Facebook as well as prevents from viewing via direct link.
 ! Homepage: https://github.com/kurtnettle/uBO-filters-fb
 ! License: MIT
 

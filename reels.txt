@@ -1,5 +1,5 @@
-! Title: uBlock Origin filters to block Facebook Reels.
-! Description: Hides the entire Reels tray and related card elements on Facebook.
+! Title: Block Facebook Reels
+! Description: Hides the entire Reel icon from navigation bar and related card elements on Facebook as well as prevents from viewing via direct link.
 ! Homepage: https://github.com/kurtnettle/uBO-filters-fb
 ! License: MIT
 
