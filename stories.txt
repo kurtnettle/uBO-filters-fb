@@ -3,6 +3,6 @@
 ! Homepage: https://github.com/kurtnettle/uBO-filters-fb
 ! License: MIT
 
-www.facebook.com##div[aria-label="Stories"]
-m.facebook.com,mtouch.facebook.com,touch.facebook.com##div#screen-root > div.m > div.m[data-focusable="true"] > div.m:nth-child(6)
+facebook.com##div[aria-label="Stories"]
+facebook.com##div#screen-root > div.m > div.m[data-focusable="true"] > div.m:nth-child(6)
 ||facebook.com/stories^$document
