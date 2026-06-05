@@ -4,5 +4,5 @@
 ! License: MIT
 
 www.facebook.com##div[role="navigation"] > ul > li:has(a[aria-label="Reels"])
-m.facebook.com,mtouch.facebook.com,touch.facebook.com##div#screen-root div.m[role="tab"]:matches-attr(aria-label=/reel\w+/)
+m.facebook.com,mtouch.facebook.com,touch.facebook.com##div#screen-root div.m[role="tab"][aria-label*="reel"]
 ||facebook.com/reel^$document
