@@ -6,3 +6,7 @@
 facebook.com##div[role="navigation"] > ul > li:has(a[aria-label="Reels"])
 facebook.com##div#screen-root div.m[role="tab"][aria-label*="reel"]
 ||facebook.com/reel^$document
+
+# News Feed
+facebook.com##div.x6ikm8r.x10wlt62:has(div[aria-label="Reels"])
+facebook.com##div.m.displayed:has(h2 span:has-text("Reels"))
